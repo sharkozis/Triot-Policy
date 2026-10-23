@@ -1,9 +1,9 @@
 {
-  "name": "temp-app",
-  "version": "0.1.0",
+  "name": "triot-policies-and-terms",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "dev": "next dev -p 4000",
     "build": "next build",
     "start": "next start",
     "lint": "eslint"
